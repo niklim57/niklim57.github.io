@@ -1,0 +1,45 @@
+.Contact{
+  background-image: url(./../img/bgYellow.png);
+  height: 840px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 200px 200px 60px;
+}
+
+.Title{
+  font-family: 'Muller';
+  font-weight: 800;
+  color: black;
+  font-size: 48px;
+  text-align: center;
+}
+
+.Wrap{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 150px;
+
+}
+
+.Block{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.link{
+  font-family: 'Cambria';
+  font-size: 24px;
+  font-weight: 600;
+  color: black;
+
+}
+
+.foto{
+  width: 200px;
+}
+
+.foto img {
+  width: 100%
+}

@@ -1,0 +1,27 @@
+.Header{
+  width: 100%;
+  height: 660px;
+  background-color: #f8b30d;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.Content{
+  display: flex;
+  justify-content: center;
+
+}
+.HeaderText{
+font-family: 'Muller';
+font-weight: 800;
+}
+
+.Logo{
+  margin-left: 20px; 
+  width: 130px;
+}
+
+.Arrow{
+  display: flex;
+  justify-content: center;
+}
